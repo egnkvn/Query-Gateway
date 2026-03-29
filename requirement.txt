@@ -1,0 +1,7 @@
+datasets
+sentence-transformers
+scikit-learn
+numpy
+joblib
+fastapi
+uvicorn
