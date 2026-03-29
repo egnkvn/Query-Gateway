@@ -11,7 +11,7 @@ The classifier is saved as `classifier.joblib` after training.
 The classifier weight is already in the image. To run the server locally with Docker:
 ```bash
 docker build -t cycarrier .
-docker run -d -p 8000:8000 --name cycarrier cycarrier
+docker run -d -p 8000:8000 --name cycarrier
 ```
 Then send a test request:
 ```bash
